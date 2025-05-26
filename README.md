@@ -17,22 +17,22 @@
 | Набор Маляка                  | 1) [Подставка телефон планшет ноут](https://market.yandex.ru/card/podstavka-dlya-noutbuka-i-plansheta-skladnaya-vrashchayushchayasya-na-360-gradusov-i-regulirovkoy-vysoty-i-ugla-naklona-serebristaya/103805521622?do-waremd5=gTJmY2o3_jGpML4g3YVcDw&cpc=Gr3a-mmXRcDeAwCqQy0rOCe92rC670gfSZYfrFOr2zurTJ2IkDV3LUwdA-gsKqmuZUZtGCXF2aRJrWcH5nZ0euvGXvrquV4gHqLdSUMFUPWMqp2FuFprMtqfLmShUZaAYqhUNjcp0zI1mZBKcZS2u29mEeej5DiTN9Z6-9cj_MtLktpuOu3XpddqIPNrYxSmyjz1pqcLi4EFBorVW30Om7ECEeNsINcBtsbG6z82kLVD3XbqqsiB6VIu3KUrCTm6mjyArtp1sw-RZ-bcUj0o4OTUs16z46cG4nS_M3SPtAxGcdnrOXOvK6fyi5MDlUI-6UXn5MCxV-Jqcj8yrjmG6r-jConhNLenBwl4Pbv3r34hIuIIc3OWJGbbR0nH6eNDwDaJm7klJkHC9IiWHEZtTsSi91rhUJ_tW7Dta5LALMobZzfnFKG3yXciKH2oNbhCg14ElhsI2lNWMUQp9ie_TNdABBaxdkpyeLZGNuJcvfKUU_EW07lQk2wZTs1zSFZu7WUpQC2xD52ZOIaC2Fp_8twRv1XWAGuODUh5wwLYLGM%2C)<br>2) Набор кейкапы<br>3) [LAMZU Thorn](https://www.dns-shop.ru/product/57a54c922059ed20/mys-besprovodnaaprovodnaa-lamzu-thorn--cernyj/?ysclid=mb3t96di1i869769024)<br>4) Набор эпоксидный<br>5) [Массажёр](https://www.ozon.ru/product/perkussionnyy-massazher-dlya-tela-massazhnyy-pistolet-just-mountains-jmmini-25vt-9kg-6mm-1588949805/?at=79tnXpL0YTE41xZAhVmjpgXilVO48WuOmzmpXS74lVAN)<br>6) [смазка для клавы](https://www.ozon.ru/product/nabor-dlya-smazki-klaviatury-5-g-krytox-gpl205g0-krytox-gpl105-permatex-22058-81150-1469844224/)<br> | 3400<br>5600<br>6200<br>2400<br>1800<br>1100<br><br><br>**<u>20500</u>** |
 | Набор Ильич                   | 1) Набор к компу<br>2) Набор кейкапы<br>3) [Массажёр](https://www.ozon.ru/product/perkussionnyy-massazher-dlya-tela-massazhnyy-pistolet-just-mountains-jmmini-25vt-9kg-6mm-1588949805/?at=79tnXpL0YTE41xZAhVmjpgXilVO48WuOmzmpXS74lVAN) <br>4) [маркеры](https://www.ozon.ru/product/markery-dlya-sketchinga-dvustoronnie-nabor-204-tsveta-2026795683/?at=57twPjoRJcDk8nD8hvXwGJ5IvOAmrQfDnXVA5Sp48klZ&from_sku=2026795873&oos_search=false)<br>5) Набор эпоксидный                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 8400<br>5600<br>1800<br>2400<br>2400<br><br>**<u>20600</u>**             |
 
-|     | Имя     | Возможности | Реализация |
-| --- | ------- | ----------- | ---------- |
-| 1   | Илья    | 2.000       |            |
-| 2   | Алёна   | 2.000       |            |
-| 3   | Миша    | 1.000       |            |
-| 4   | Дима    | 2.000       |            |
-| 5   | Андрей  | 2.000+      |            |
-| 6   | Арина   | 1.500       |            |
-| 7   | Митя    | 1.500       |            |
-| 8   | Саня    | 1.500       |            |
-| 9   | just    | 1.500       |            |
-| 10  | htomiko | 1.000       |            |
-| 11  | Лиза    | 1.000       |            |
-| 12  | ТХ      | 1.000       |            |
-| 13  | сер     | 1.000       |            |
-| 14  | Захар   | 2000        |            |
-| 15  | Саша    | 0 (личный)  |            |
-|     |         |             |            |
-|     | СУММ    | 21.000+     |            |
+|     | Имя     | Возможности    | Реализация |
+| --- | ------- | -------------- | ---------- |
+| 1   | Илья    | 3.500          |            |
+| 2   | Алёна   | 2.000          |            |
+| 3   | Миша    | 1.000 + группа |            |
+| 4   | Дима    | 1.500 + группа |            |
+| 5   | Андрей  | 0 (личный)     |            |
+| 6   | Арина   | 1.500          |            |
+| 7   | Митя    | 1.500          |            |
+| 8   | Саня    | 1.500          |            |
+| 9   | just    | 1.500          |            |
+| 10  | htomiko | 1.000          |            |
+| 11  | Лиза    | 1.000          |            |
+| 12  | ТХ      | 1.000          |            |
+| 13  | сер     | 1.000          |            |
+| 14  | Захар   | 2000           |            |
+| 15  | Саша    | 0 (личный)     |            |
+|     |         |                |            |
+|     | СУММ    | 20.000         |            |
